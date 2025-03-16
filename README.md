@@ -15,7 +15,7 @@ Uncovering Mental Health Trends in International Students with PostgreSQL ðŸ“Šâœ
 
 ### tools 
 - Excel -> data cleaning 
-- ql-server -> data analysis
+- sql-server -> data analysis
 
 ### data cleaning 
 1. Load the Data
